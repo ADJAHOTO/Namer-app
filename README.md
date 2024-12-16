@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # namer_app
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Namer-app
+Application generative de paire de mots en anglais pour etre definis comme favoris dans une liste predefini.
+>>>>>>> 01e0ecac228fb961c8a6c6819539a86710dd6abc
